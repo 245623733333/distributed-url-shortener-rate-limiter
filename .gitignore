@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.local
+.venv/
+dist/
+build/
+__pycache__/
+*.pyc
+*.db
+*.db-journal
+.pytest_cache/
+.vercel/
