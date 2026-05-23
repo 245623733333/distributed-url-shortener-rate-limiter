@@ -2,6 +2,12 @@
 
 Distributed URL Shortener and Rate Limiter built for backend engineering and system design practice.
 
+## Live Demo
+
+- **Frontend:** [distributed-url-shortener-rate-limi.vercel.app](https://distributed-url-shortener-rate-limi.vercel.app/)
+- **Backend Health Check:** [linkforge-api-uk3n.onrender.com/health](https://linkforge-api-uk3n.onrender.com/health)
+- **Demo Video:** [Watch the project walkthrough on Google Drive](https://drive.google.com/file/d/1zXP7Ur-yWFqjDjZT1RKuyvQqtBEPtq_o/view?usp=sharing)
+
 ## Features
 
 - Short URL creation
